@@ -1,9 +1,14 @@
 # AcademyBugs
 E-commerce manual testing project covering test cases, functional/UI testing, and defect reporting.
+
 ##URL- https://academybugs.com/
+
 ##INTRODUCTION - The AcademyBugs practice site is a demo e-commerce website designed for software testing practice for bug identification and reporting. The website contains different modules, examples of bugs, types of bugs, shopping site for finding bugs, and report bugs for finding issues.
+
 ##SCOPE - The following features of the website to be tested Search functionality, Product features, Add to Cart functionality, Checkout process, Payment, UI (User interface).
+
 ##TESTING TOOLS - Microsoft word JIRA
+
 ##Testing Documents
   1. Features List → https://docs.google.com/document/d/1uFhOn9nOvqs6Be34tHkNkuO200XKxkV86RJxqAC5yC8/edit?tab=t.0
   2. Test Plan → https://docs.google.com/document/d/1uFhOn9nOvqs6Be34tHkNkuO200XKxkV86RJxqAC5yC8/edit?tab=t.0
