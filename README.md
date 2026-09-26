@@ -10,7 +10,7 @@ E-commerce manual testing project covering test cases, functional/UI testing, an
 ##TESTING TOOLS - Microsoft word JIRA
 
 ##Testing Documents
-  1. Features List → https://docs.google.com/document/d/1uFhOn9nOvqs6Be34tHkNkuO200XKxkV86RJxqAC5yC8/edit?tab=t.0
+  1. Features List → https://docs.google.com/document/d/1r-WACSlGYgpoZWnIqhsfNg_GSzpNdw-_KSsShk9ufaE/edit?tab=t.0
   2. Test Plan → https://docs.google.com/document/d/1uFhOn9nOvqs6Be34tHkNkuO200XKxkV86RJxqAC5yC8/edit?tab=t.0
   3. Test Execution Report → https://docs.google.com/spreadsheets/d/1b6q5dtUAtothhT4phwvbu5IMMbuzXCmb2RHe_4qjL-s/edit?gid=0#gid=0
   4. Defect Report → https://docs.google.com/spreadsheets/d/1KnAhd8LeTQeD1sAWWuQlZA-xL8AkGc6V0-2sJngXi3A/edit?gid=0#gid=0
